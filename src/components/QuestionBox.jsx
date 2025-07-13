@@ -183,7 +183,7 @@ const QuestionBox = ({ topicMap }) => {
                 className={`cursor-pointer w-full sm:w-auto px-6 py-2 rounded font-medium transition ${
                   currentIndex === 0
                     ? "bg-gray-400 dark:bg-zinc-700 text-white cursor-not-allowed"
-                    : "bg-sky-500 hover:bg-sky-600 text-white"
+                    : "bg-blue-400 hover:bg-blue-500 text-white"
                 }`}
               >
                 Previous
